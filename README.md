@@ -134,5 +134,5 @@ For help getting started with Flutter, view our online
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
-
+000
 [![Beerpay](https://beerpay.io/amangautam1/flutter-musicplayer/badge.svg?style=beer-square)](https://beerpay.io/amangautam1/flutter-musicplayer)  [![Beerpay](https://beerpay.io/amangautam1/flutter-musicplayer/make-wish.svg?style=flat-square)](https://beerpay.io/amangautam1/flutter-musicplayer?focus=wish)
